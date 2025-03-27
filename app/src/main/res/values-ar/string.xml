@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Taskly - تاسكلي</string>
+    <string name="choose_language">اختر اللغة</string>
+    <string name="close_app">الخروج من التطبيق</string>
+    <string name="sub_close_app">هل تريد الخروج من التطبيق؟</string>
+    <string name="main_text"><![CDATA[إدارة المهام & \n قائمة المهام]]></string>
+    <string name="sub_Text_main">تم تصميم هذه الأداة الإنتاجية لمساعدتك \n على إدارة مهامك بشكل أفضل \n وتنظيمها وفقًا للمشاريع بسهولة!</string>
+    <string name="btn_start">لنبدأ</string>
+    <string name="edit_task">تعديل التاسك</string>
+    <string name="hint_edit_task">يرجي تعديل التاسك</string>
+    <string name="btn_time">ضبط الوقت</string>
+    <string name="add_task">إضافة تاسك</string>
+    <string name="am">صباحي</string>
+    <string name="pm">مسائي</string>
+    <string name="delete_task">حذف التاسك</string>
+    <string name="sub_delete_task">هل تريد حذف هذا التاسك؟</string>
+    <string name="toast_delete_task">تم حذف التاسك بنجاح</string>
+    <string name="choose_time">اختر الوقت</string>
+    <string name="error_name_task">يرجي كتابة اسم التاسك</string>
+    <string name="error_choose_time">يرجي ضبط وقت</string>
+    <string name="done_task">تمت إضافة التاسك بنجاح</string>
+</resources>
